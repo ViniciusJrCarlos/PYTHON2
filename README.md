@@ -1,1 +1,1 @@
-diversos arquivos de analises com python 
+arquivos alterados do tutorial de python
